@@ -1,14 +1,18 @@
+body{
+  margin: 14.91px;
+}
+
 .lab{
   background-color: yellow;
-  padding: 91.7px;
-  margin: 0px;
+  padding: 7px;
+  margin-left: 500px;
+  width: 147px;
+  height: 49px;
 }
 .es{
   background-color: #C70039;
-  padding: 91.7px;
-  border: 1px solid black;
-  margin: 0px;
-}
-body{
-  margin: 14.91px;
+  padding: 7px;
+  margin-left: 500px;
+  width: 147px;
+  height: 49px;
 }
