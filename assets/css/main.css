@@ -1,18 +1,19 @@
 body{
-  margin: 14.91px;
+  margin: 63.91px;
+  font-size: 70.91px;
 }
 
 .lab{
+  display: inline;
   background-color: yellow;
   padding: 7px;
-  margin-left: 500px;
-  width: 147px;
-  height: 49px;
+  margin-left:7px;
+  /*width: 14px;*/
 }
 .es{
+  display: inline;
   background-color: #C70039;
   padding: 7px;
-  margin-left: 500px;
-  width: 147px;
-  height: 49px;
+  margin-left: 7px;
+  /*width: 14px;*/
 }
